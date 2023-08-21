@@ -144,3 +144,8 @@ MyString& MyString::operator*=(int n){
     *this=operator*(n);
     return *this;
 }
+char MyString::operator[](int poss)const{
+    if (poss<strlen(str)&&poss>=0)
+        return str[poss];
+    return -1;
+}

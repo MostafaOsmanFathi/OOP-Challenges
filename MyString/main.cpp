@@ -2,8 +2,7 @@
 #include "MyString.h"
 int main() {
     MyString mostafa{"mostafa"};
-    cout<<mostafa+" ahmed";
-
+    cout<<mostafa[0];
 
     return 0;
 }

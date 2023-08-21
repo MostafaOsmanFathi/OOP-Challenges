@@ -52,7 +52,7 @@ public:
 
     MyString operator*(int n)const;
     MyString& operator*=(int n);
-
+    char operator[](int poss)const;
 
 
 };
