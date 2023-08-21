@@ -1,0 +1,3 @@
+/home/mostafa/CLionProjects/OOP-Challenges/MyString/cmake-build-debug/CMakeFiles/MyString.dir
+/home/mostafa/CLionProjects/OOP-Challenges/MyString/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mostafa/CLionProjects/OOP-Challenges/MyString/cmake-build-debug/CMakeFiles/rebuild_cache.dir
