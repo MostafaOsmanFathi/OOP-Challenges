@@ -1,0 +1,3 @@
+/home/mostafa/CLionProjects/OOP-Challenges/LibraryManagement_System/cmake-build-debug/CMakeFiles/LibraryManagement_System.dir
+/home/mostafa/CLionProjects/OOP-Challenges/LibraryManagement_System/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mostafa/CLionProjects/OOP-Challenges/LibraryManagement_System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
