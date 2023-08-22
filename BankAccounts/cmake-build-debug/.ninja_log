@@ -1,0 +1,14 @@
+# ninja log v5
+0	804	1692732144145000740	CMakeFiles/PolymorephismeChallange.dir/Account.cpp.o	7ce059ad9ab603c9
+22	713	1692732144053006884	CMakeFiles/PolymorephismeChallange.dir/Saving_Account.cpp.o	74895f93876cf0c5
+37	766	1692732144109003144	CMakeFiles/PolymorephismeChallange.dir/Checking_Account.cpp.o	8f3a228dc3d84a44
+18	673	1692732144013009555	CMakeFiles/PolymorephismeChallange.dir/Printable.cpp.o	c6c3a167778afa20
+47	796	1692732144137001273	CMakeFiles/PolymorephismeChallange.dir/Trust_Account.cpp.o	c967a9159760023b
+0	340	1692732251137173045	CMakeFiles/PolymorephismeChallange.dir/main.cpp.o	7ff6bb3926186777
+340	439	1692732251233155991	PolymorephismeChallange	3116396e9e003678
+1	496	1692733392697079813	CMakeFiles/PolymorephismeChallange.dir/main.cpp.o	7ff6bb3926186777
+1	692	1692733392893053902	CMakeFiles/PolymorephismeChallange.dir/Account_Utility.cpp.o	e55553635d69b604
+692	803	1692733393005039097	PolymorephismeChallange	ee35ca7b4a92f079
+1	419	1692733539117360913	CMakeFiles/PolymorephismeChallange.dir/main.cpp.o	7ff6bb3926186777
+11	493	1692733539201428456	CMakeFiles/PolymorephismeChallange.dir/Account_Utility.cpp.o	e55553635d69b604
+494	594	1692733539301508863	PolymorephismeChallange	ee35ca7b4a92f079
